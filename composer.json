@@ -1,0 +1,15 @@
+{
+    "name": "root/ajax",
+    "description": "Exemplo de Ajax com JS puro e PHP",
+    "authors": [
+        {
+            "name": "Jean Barbosa",
+            "email": "barbosa.jean@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    }
+}
